@@ -17,8 +17,11 @@ Try to integrate classes with asyncio (if you are not happy with asyncio, see th
 libraries: threading, multiprocessing, selectors and coroutine.future. threading will be easier and
 close in meaning to asyncio, but not faster)
 These links are for asyncio library, “kind of” tutorials (but not the best ones)
+
 https://docs.python.org/3.6/library/asyncio-protocol.html#tcp-echo-client-protocol
+
 https://docs.python.org/3.6/library/asyncio-protocol.html#tcp-echo-server-protocol
+
 https://docs.python.org/3/library/asyncio-task.html
 
 The task [80%]
